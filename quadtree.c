@@ -131,8 +131,8 @@ void split_node(QuadTreeNode *node) {
     return;
 }
 
-void count_data_points(QuadTreeNode *root, float) {
-
+void count_data_points(QuadTreeNode *root, DataPoints data_points) {
+    // TODO integrate DataPoints as flexible array members
     return;
 }
 
